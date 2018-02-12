@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="akka">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../HelloSSL/lib/akka-actor_2.11-2.4.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../HelloSSL/lib/akka-http_2.11-10.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../HelloSSL/lib/akka-http-spray-json_2.11-10.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../HelloSSL/lib/akka-slf4j_2.11-2.4.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../HelloSSL/lib/akka-stream_2.11-2.4.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

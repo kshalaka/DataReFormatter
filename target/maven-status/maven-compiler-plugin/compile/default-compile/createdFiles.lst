@@ -1,0 +1,8 @@
+com/dfs/ace/impl/ReFormatterImpl.class
+com/dfs/ace/domain/ResultData.class
+com/dfs/ace/constants/ReFormatterConstants.class
+com/dfs/ace/domain/Column.class
+com/dfs/ace/ReFormatter.class
+com/dfs/ace/util/ReFormatterUtil.class
+com/dfs/ace/domain/MetaData.class
+com/dfs/ace/domain/Result.class
